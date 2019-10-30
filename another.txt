@@ -1,0 +1,3 @@
+git log --oneline
+git add name
+git commit -m name "discription/title"
